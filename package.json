@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YOUR_USERNAME.github.io/neuronnova-ai",
+  "homepage": " https://ahmedhaji08.github.io/AI_Service_Page/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -32,8 +32,4 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
-  
-  
 }
-
-
