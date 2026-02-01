@@ -1,4 +1,4 @@
-🚀 **NeuroNova AI – AI Business Page*
+🚀 *NeuroNova AI – AI Business Page*
 
 A modern, responsive, and production-ready AI consulting website built using React + Vite, designed to showcase AI services, capture leads, and provide a smooth, professional user experience across all devices.
 
