@@ -46,7 +46,7 @@ export default function Contact({ setToast }) {
 
         <form
           className="contact-form"
-          action="https://formspree.io/f/maqjzvab"
+          action="https://formspree.io/f/xnjvkqbp"
           method="POST"
           onSubmit={handleSubmit}
         >
