@@ -91,26 +91,6 @@ Git – Version control
 
 npm – Dependency management
 
-neuronnova-ai/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Hero.jsx
-│   │   ├── About.jsx
-│   │   ├── Services.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Footer.jsx
-│   │   └── Toast.jsx
-│   ├── utils/
-│   │   └── reveal.js
-│   ├── main.jsx
-│   └── index.css
-├── public
-├── index.html
-├── vite.config.js
-├── package.json
-└── README.md
-
 
 📬**Contact Form (Formspree)**
 
